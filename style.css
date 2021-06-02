@@ -1,9 +1,12 @@
 body {
 background-color: royalblue;
 }
-#container {
-color: white; 
+.container {
+color:white; 
 padding-top: 100px;
 padding-left: 30px;
- padding-right: 30px;
+padding-right: 30px;
+}
+h1{
+    color: black;
 }
