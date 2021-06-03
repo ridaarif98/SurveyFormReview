@@ -1,0 +1,22 @@
+
+body {
+  background-color: royalblue;
+}
+
+.container {
+  color: white;
+  padding-top: 100px;
+  padding-left: 30px;
+  padding-right: 30px;
+}
+
+h1 {
+  color: black;
+}
+
+.row {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  background-color: midnightblue;
+  border-radius: 10px;
+}
