@@ -17,6 +17,7 @@ h1 {
 .row {
   padding-top: 50px;
   padding-bottom: 50px;
+  padding-left: 20px;
   background-color: midnightblue;
   border-radius: 10px;
 }
